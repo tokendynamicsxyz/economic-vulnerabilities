@@ -2,6 +2,7 @@
 
 |Date |Protocol |Ecosystem |Category |What happened |Value lost by protocol |Value gained by attacker |Source |Subcategory |
 |---|---|---|---|---|---|---|---|---|
+|Nov 23, 2023<br> |Kyberswap Network<br> |Multi-Chain<br> |System Design<br> |$48m<br> |$48m<br> |[https://rekt.news/kyberswap-rekt/](https://rekt.news/kyberswap-rekt/)<br> |  |  |
 |Sep 28, 2022<br> |0xbad<br> |Ethereum<br> | |MEV bot takedown<br> |1,101 ETH<br> |1,101 ETH<br> |[https://rekt.news/ripmevbot/](https://rekt.news/ripmevbot/)<br> | |
 |Mar 14, 2023<br> |Angle Protocol<br> |Ethereum<br> |Contagion<br> |Angle ran out of liquidity following the Euler exploit due to its collateral mechanism<br>https://rekt.news/euler-rekt/<br> |$18.4m<br> | |[https://anglemoney.notion.site/Angle-Protocol-Q-A-Regarding-Euler-Exploit-03af18cbe5e84430b3341b145554492e](https://anglemoney.notion.site/Angle-Protocol-Q-A-Regarding-Euler-Exploit-03af18cbe5e84430b3341b145554492e)<br> | |
 |Jun 13, 2023<br> |Atlantis Loans<br> |BSC<br> |Governance exploit<br> |The attacker pushed and voted through a governance proposal granting them control of Atlantis Loans’ token contracts. They then upgraded with their own malicious contracts, allowing them to transfer tokens from any address which still had active approvals to Atlantis contracts.<br> |$1m<br> | |[https://rekt.news/atlantis-loans-rekt/](https://rekt.news/atlantis-loans-rekt/)<br> |Governance, upgradeable contract<br> |

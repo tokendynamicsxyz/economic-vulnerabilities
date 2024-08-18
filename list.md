@@ -1,7 +1,7 @@
 # Economic Security Exploits
 
-|Date |Protocol |Ecosystem |Protocol Type |Category |Subcategory |<div style="width:290px">What happened</div> |Value lost by protocol |Value gained by attacker |Source |
-|---|---|---|---|---|---|---|---|---|---|
+|Date |Protocol |Ecosystem |Protocol Type |Category |Subcategory |<div style="width:290px">What happened</div> |Value lost by protocol |Value gained by attacker |Source |Vulnerability Level |
+|---|---|---|---|---|---|---|---|---|---|---|
 |07/29/2024  |Compound Finance |Ethereum |  | Governance exploit |  |Golden Boys voting bloc led by Humpy accumulated COMP tokens over several months and pushed a proposal for COMP to earn yield in a novel scheme, granting themselves an additional 500,000 COMP in the process, giving them de facto control over the DAO. |  |$25m |[https://blockonomi.com/compound-finance-faces-controversy-over-24-million-proposal/](https://blockonomi.com/compound-finance-faces-controversy-over-24-million-proposal/) |  |
 |06/10/2024  |UwU Lend | BSC | | Price Manipulation |  |Exploiter borrowed tokens to manipulate prices in several pools to get a lower price when borrowing, and a higher price for the same tokens on being liquidated. |  | $23m | [https://rekt.news/uwulend-rekt/](https://rekt.news/uwulend-rekt/) |  |
 |02/02/2023  |IPOR Protocol | Ethereum | | Price manipulation |  |A user or group of users leveraged approximately $40m to manipulate interest rates on Aave and Compound for several hours and trade against IPOR LPs|$55k |$55k |[https://blog.ipor.io/ipor-usdt-index-sustained-oracle-attack-and-risk-mitigation-4f3618876a2c](https://blog.ipor.io/ipor-usdt-index-sustained-oracle-attack-and-risk-mitigation-4f3618876a2c) |  |

@@ -1,4 +1,4 @@
-# Economic Security Exploits
+# Economic Vulnerabilities
 
 |Date |Protocol |Ecosystem |Protocol Type |Category |Subcategory |<div style="width:290px">What happened</div> |Value lost by protocol |Value gained by attacker |Source |Vulnerability Level |
 |---|---|---|---|---|---|---|---|---|---|---|

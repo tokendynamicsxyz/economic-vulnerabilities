@@ -18,8 +18,8 @@ This repo is _NOT_ for live vulnerabilities.
 
 **Category:** Category of exploit; choose from existing
 
-Price manipulation
-Oracle manipulation
+- Price manipulation
+- Oracle manipulation
 
 **Subcategory** Subcategory of exploit; choose from existing, but subcategories are more flexible
 
@@ -33,13 +33,12 @@ Oracle manipulation
 
 **Vulnerability Level**
 
-Determined by profitability (Y/N) x cost
+Determined by profitability (Y/N) x barriers to execution
 
-Low - Unprofitable, permissioned (e.g. upgradable contracts with _no_ exogenous assets)
-Medium - Unprofitable, permissionless (e.g. low-cost spam attack)
-High - Profitable, permissioned (e.g. governance attack with large capital requirements)
-Critical - Profitable, permissionless (e.g. flash loanable price manipulation)
-
+- **Low:** Unprofitable, permissioned (e.g. upgradable contracts with _no_ exogenous assets)
+- **Medium:** Unprofitable, permissionless (e.g. low-cost spam attack)
+- **High:** Profitable, permissioned (e.g. governance attack with large capital requirements)
+- **Critical:** - Profitable, permissionless (e.g. flash loanable price manipulation)
 
 ## Definitions
 

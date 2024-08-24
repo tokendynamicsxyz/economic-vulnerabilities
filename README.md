@@ -25,9 +25,13 @@ Oracle manipulation
 **Subcategory** Subcategory of exploit; choose from existing, but subcategories are more flexible
 
 **What happened** A 2-3 sentence description of a description of the incident; simplify - avoid technical terms, function names, etc.
+
 **Value lost by protocol:** Protocol's or users' losses, *not counting a decrease in price of a protocol's governance token*
+
 **Value gained by exploiter** Exploiter's net profit
+
 **Source** Link to a source, or multiple if a single source provides insufficient context
+
 **Vulnerability Level**
 
 Determined by profitability (Y/N) x cost
@@ -41,4 +45,5 @@ Critical - Profitable, permissionless (e.g. flash loanable price manipulation)
 ## Definitions
 
 **Price manipulation:** Price is manipulated
+
 **Oracle manipulation:** The oracle, data feed, or data provider to a protocol is manipulated.

@@ -19,7 +19,6 @@ This repo is _NOT_ for live vulnerabilities.
 **Category:** Category of exploit; choose from existing
 
 Price manipulation
-
 Oracle manipulation
 
 **Subcategory** Subcategory of exploit; choose from existing, but subcategories are more flexible

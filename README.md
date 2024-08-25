@@ -42,6 +42,8 @@ Determined by profitability (Y/N) x barriers to execution
 
 ## Definitions
 
-**Price manipulation:** Price is manipulated
+**Price manipulation:** Price is manipulated.
 
 **Oracle manipulation:** The oracle, data feed, or data provider to a protocol is manipulated.
+
+_P.S. "Flash loan" is not a category of economic exploit. A flash loan is a method for exploiting vulnerabilities. You may be looking for **Price manipulation** category, or **Critical** level vulnerability._

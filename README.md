@@ -6,6 +6,18 @@ Economic security vulnerabilities arise primarily from financial dependencies, w
 
 This repo is _NOT_ for live vulnerabilities.
 
+## Examples
+
+The protocol design process can be broken up into four stages:
+1. Validation - The gathering of _**business requirements**_, resulting in a _**product spec**_ is validated by an the gathering of resources toward a protocol's development.
+2. Design - Business requirements are translated into a _**design spec**_ that describe at a high level _how the protocol works_; evaluated with a design audit/economic security assessment.
+3. Architecture - Modules are arranged such that the protocol is technically secure and gas efficient, resulting in _pseudocode_, evaluated as part of a technical audit.
+4. Code - Functions are chosen, pseudocode is translated into actual _code_, evaluated in a technical audit.
+
+Economic vulnerabilities arise from mistakes in the design. While protocol development is not always so straightforward, these vulnerabilities arise from the _non-technical considerations_ in protocol development.
+
+Because of this, they are concerned with a set of disciplines that lie outside of the typical developer's expertise (e.g. economics, mechanism design, financial engineering). Economic vulnerabilities are marked by mistakes of this nature.
+
 ## Schema
 
 **Date:** mm/dd/yyyy US Date Standard (not sorry)

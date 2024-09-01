@@ -49,8 +49,8 @@ Determined by profitability (Y/N) x barriers to execution
 
 - **Low:** Unprofitable, permissioned (e.g. upgradable contracts with _no_ exogenous assets)
 - **Medium:** Unprofitable, permissionless (e.g. low-cost spam attack)
-- **High:** Profitable, permissioned (e.g. governance attack with large capital requirements)
-- **Critical:** - Profitable, permissionless (e.g. flash loanable price manipulation)
+- **High:** Profitable, "permissioned" i.e. significant barriers to entry (e.g. governance attack with large capital requirements)
+- **Critical:** Profitable, permissionless (e.g. flash loanable price manipulation)
 
 ## Definitions
 

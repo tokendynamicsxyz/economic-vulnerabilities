@@ -33,15 +33,15 @@ Because of this, they are concerned with a set of disciplines that lie outside o
 - Price manipulation
 - Oracle manipulation
 
-**Subcategory** Subcategory of exploit; choose from existing, but subcategories are more flexible
+**Subcategory:** Subcategory of exploit; choose from existing, but subcategories are more flexible
 
-**What happened** A 2-3 sentence description of a description of the incident; simplify - avoid technical terms, function names, etc.
+**What happened:** A 2-3 sentence description of a description of the incident; simplify - avoid technical terms, function names, etc.
 
 **Value lost by protocol:** Protocol's or users' losses, *not counting a decrease in price of a protocol's governance token*
 
-**Value gained by exploiter** Exploiter's net profit
+**Value gained by exploiter:** Exploiter's net profit
 
-**Source** Link to a source, or multiple if a single source provides insufficient context
+**Source:** Link to a source, or multiple if a single source provides insufficient context
 
 **Vulnerability Level**
 

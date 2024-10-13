@@ -32,6 +32,8 @@ Because of this, they are concerned with a set of disciplines that lie outside o
 
 - Price manipulation
 - Oracle manipulation
+- Governance
+- ++
 
 **Subcategory:** Subcategory of exploit; choose from existing, but subcategories are more flexible
 

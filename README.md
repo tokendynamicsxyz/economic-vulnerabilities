@@ -6,7 +6,7 @@ Economic security vulnerabilities arise primarily from financial dependencies, w
 
 This repo is _NOT_ for live vulnerabilities.
 
-## Examples
+## What is an economic vulnerability?
 
 The protocol design process can be broken up into four stages:
 1. Validation - The gathering of _**business requirements**_, resulting in a _**product spec**_ is validated by an the gathering of resources toward a protocol's development.
